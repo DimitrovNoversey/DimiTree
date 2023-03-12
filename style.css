@@ -47,7 +47,7 @@ section div {
 section > div {
   padding: 0px 0px;
   position: inherit;
-  top: 28%;
+  /* top: 28%; */
 }
 section div img {
   width: 100px;
@@ -89,7 +89,7 @@ h3 {
   color: white;
   text-shadow: 0 0 1px transparent, 0 1px 2px rgb(0 0 0 / 50%);
   margin-top: 8px;
-  font-size: 105%;
+  font-size: 95%;
 }
 
 h4 {
@@ -99,18 +99,18 @@ h4 {
   color: lightgrey;
   text-shadow: 0 0 1px transparent, 0 1px 2px rgb(0 0 0 / 50%);
   margin-top: 8px;
-  font-size: 95%;
+  font-size: 85%;
 }
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .secondarybutton {
   float: left;
-  width: 11.1%;
+  width: 7.7%;
   padding: 5px;
 
   color: white;
   transition-duration: 200ms;
-  font-size: 200%;
+  font-size: 150%;
 }
 
 .secondarybutton:hover {
@@ -119,5 +119,5 @@ h4 {
 
 .also {
   position: fixed;
-  bottom: -10px;
+  /* bottom: -10px; */
 }
